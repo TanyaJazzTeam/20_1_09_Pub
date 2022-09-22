@@ -5,7 +5,6 @@ my:
       dough:
        - eggs1
        - sugar2
-       - ghjkl 000
        - flour3
       cream:
         - sugar4
